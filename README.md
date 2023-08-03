@@ -3,13 +3,10 @@
 
 - 🌱 I’m currently learning **PHP & MYSQL**
 
-- 👨‍💻 All of my projects are available at [https://www.anismekhaba.com](https://www.anismekhaba.com)
-
 - 💬 Ask me about **html , css , javascript , react , bootstrap**
 
-- 📫 How to reach me **contact@anismekhaba.com**
+- 📫 How to reach me **mekhabaanis213@gmail.com**
 
-- 📄 Know about my experiences [I work on fiverr as a Freelancer](I work on fiverr as a Freelancer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
