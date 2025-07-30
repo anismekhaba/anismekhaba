@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anis Mekhaba</h1>
+<h1 align="center">Hi 👋, I'm Anis </h1>
 <h3 align="center">A Professional Front end Developer from Algeria</h3>
 
 - 🌱 I’m currently learning **PHP & MYSQL**
 
 - 💬 Ask me about **html , css , javascript , react , bootstrap**
 
-- 📫 How to reach me **mekhabaanis213@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
